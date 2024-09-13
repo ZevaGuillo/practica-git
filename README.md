@@ -9,4 +9,4 @@
 - cambio desde github
 
 # Participantes:
-- Ing. Franklin Campoverde M. 
+- Ing. Franklin Campoverde M. ✨
