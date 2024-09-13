@@ -9,4 +9,6 @@
 - cambio desde github
 
 # Participantes:
-- 
+- Jhoan Dorado = Parce 🤯
+
+
