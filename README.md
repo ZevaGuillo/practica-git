@@ -8,4 +8,5 @@
 - CAmbios de refactor
 - cambio desde github
 
-# Practica para git rebase 
+# Participantes:
+- Ing. Franklin Campoverde M. ✨
