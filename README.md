@@ -9,4 +9,4 @@
 - cambio desde github
 
 # Participantes:
-- 
+-George Dominguez :=) 
