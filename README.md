@@ -8,4 +8,7 @@
 - CAmbios de refactor
 - cambio desde github
 
-# Practica para git rebase 
+# Participantes:
+- Jhoan Dorado = Parce 🤯
+Parce = Jhoan Dorado 😊♻️
+
